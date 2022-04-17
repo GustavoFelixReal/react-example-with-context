@@ -1,0 +1,3 @@
+.form > label, .form > button, .form > span {
+  display: block;
+}
